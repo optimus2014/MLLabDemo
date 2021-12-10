@@ -2,7 +2,7 @@ import pandas as pd
 from ModelTrain import ModelTrain
 
 if __name__ == '__main__':
-    print("模型测试主函数")
+    print("模型测试主函数.")
     # ********加载数据*******
     titan = pd.read_csv('titanic_data.csv')
 
